@@ -1,8 +1,8 @@
 # acvi_1708855_2024-25
 
-Inteligencia Artificial
+Inteligencia Artificial modelos de linguagem:
 
-- ChatGPT
+-ChatGPT
 
 -Llama
 
