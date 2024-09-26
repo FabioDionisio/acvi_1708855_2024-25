@@ -4,6 +4,7 @@
 
 ### ChatGPT
 Company: OpenAI
+<br>
 CEO: Sam Altman
 
 <h3> Llama </h3>
