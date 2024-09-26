@@ -4,13 +4,13 @@
 
 ### ChatGPT
 Company: OpenAI
-![alt image out](/imagens/OpenAI.jfif)
+![alt image out](/Imagens/OpenAI.PNG)
 
 CEO: Sam Altman
 
 <h3> Llama </h3>
 Company: MetaAI
-<img src="imagens/MetaAI.png" alt="Image out">
+<img src="Imagens/MetaAI.png" alt="Image out">
 <br><br>
 CEO: Mark Zuckerberg
 
