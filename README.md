@@ -2,7 +2,7 @@
 
 ## Inteligência Artificial modelos de linguagem:
 
--ChatGPT
+### ChatGPT
 
 -Llama
 
