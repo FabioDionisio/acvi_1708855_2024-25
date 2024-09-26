@@ -3,9 +3,9 @@
 ## Artificial Inteligence language models:
 
 ### ChatGPT
-Company: OpenAI
-
 ![alt image out](/Imagens/OpenAI.png)
+
+Company: OpenAI
 
 CEO: Sam Altman
 
