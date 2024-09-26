@@ -14,7 +14,6 @@ CEO: Sam Altman
 Company: MetaAI
 
 <img src="Imagens/MetaAI.jfif" alt="Image out">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="640" height="360">
 <br><br>
 CEO: Mark Zuckerberg
 
