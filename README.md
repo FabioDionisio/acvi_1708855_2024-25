@@ -4,7 +4,7 @@
 
 ### ChatGPT
 Company: OpenAI
-![alt image out](/Imagens/OpenAI.PNG)
+![alt image out](/imagens/OpenAI.png)
 
 CEO: Sam Altman
 
