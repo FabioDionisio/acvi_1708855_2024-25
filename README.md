@@ -10,7 +10,7 @@ CEO: Sam Altman
 
 <h3> Llama </h3>
 Company: MetaAI
-<img src="Imagens/MetaAI.png" alt="Image out">
+<img src="Imagens/MetaAI.jfif" alt="Image out">
 <br><br>
 CEO: Mark Zuckerberg
 
