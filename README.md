@@ -10,7 +10,7 @@ CEO: Sam Altman
 <h3> Llama </h3>
 Company: MetaAI
 <br>
-CEO:Mark Zuckerberg
+CEO: Mark Zuckerberg
 
 -Gemini
 
