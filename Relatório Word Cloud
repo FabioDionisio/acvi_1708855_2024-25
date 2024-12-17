@@ -1,0 +1,104 @@
+# Relatório do Trabalho Prático
+## Análise, Comunicação e Visualização da Informação
+
+### Word Cloud Robin Hood
+**WRCH - Word Cloud Robin Hood**
+
+Aluno:  
+**Fábio Dionísio, 1708855**  
+GitHub: [FabioDionisio](https://github.com/FabioDionisio)  
+E-mail: [fabiote08@gmail.com](mailto:fabiote08@gmail.com)  
+
+---
+
+### Índice
+1. [Descrição do Trabalho](#descrição-do-trabalho)  
+2. [Arquitetura do Trabalho](#arquitetura-do-trabalho)  
+3. [Descrição da Implementação](#descrição-da-implementação)  
+4. [Funcionamento do Trabalho](#funcionamento-do-trabalho)  
+5. [Conclusão](#conclusão)  
+6. [Bibliografia](#bibliografia)  
+
+---
+
+### 1. Descrição do Trabalho
+Este trabalho consiste na criação de uma Word Cloud temática baseada na figura de Robin Hood, utilizando técnicas de programação em Python.  
+
+O objetivo principal foi representar graficamente as palavras mais frequentes associadas ao tema, organizadas de forma artística num formato personalizado.  
+
+**Processo:**  
+- Utilizou-se um texto base contendo informações ou histórias relacionadas ao Robin Hood.  
+- Criou-se uma máscara personalizada que define o formato da Word Cloud.  
+
+O resultado final é uma nuvem de palavras visualmente impactante, que combina arte e análise textual, ilustrando os conceitos mais presentes no tema. Este trabalho demonstra como técnicas de visualização podem ser aplicadas à análise de textos, além de destacar a criatividade no uso de ferramentas de programação para fins artísticos.
+
+---
+
+### 2. Arquitetura do Trabalho
+1. Texto base para análise.  
+2. Máscara personalizada para Word Cloud.  
+3. Códigos em Python para:  
+   - Processamento de texto.  
+   - Geração da Word Cloud.  
+4. Imagens temáticas da personagem Robin Hood.  
+
+---
+
+### 3. Descrição da Implementação
+#### 1ª Parte:
+1. **Escolha da Personagem:**  
+   A personagem escolhida foi Robin Hood.  
+
+2. **Criação da Máscara:**  
+   - Pesquisei uma imagem do Robin Hood no Google.  
+   - Editei a imagem para que o personagem ficasse escuro e o fundo branco.  
+
+3. **Texto Descritivo:**  
+   Um arquivo de texto foi criado com as principais palavras que descrevem o Robin Hood.  
+
+4. **Geração da Word Cloud:**  
+   - Usei o código Python (`text_image2_word_cloud.py`) para:  
+     - Ler o texto.  
+     - Aplicar a máscara personalizada.  
+     - Gerar a Word Cloud.  
+
+#### 2ª Parte:
+1. **Escolha de Imagens:**  
+   - Pesquisei 5 imagens do Robin Hood que mostrassem diferentes características da sua personalidade.  
+
+2. **Redimensionamento:**  
+   - Usei um site online para redimensionar e organizar as 5 imagens no mesmo tamanho.  
+
+3. **Criação de Arquivo PNG:**  
+   - Criei um título para as imagens: "A vida de Robin Hood".  
+
+4. **Junção das Imagens:**  
+   - Combinei as 5 imagens e o título utilizando o código Python (`add_multiple_images.py`).  
+
+---
+
+### 4. Funcionamento do Trabalho
+#### 1ª Parte: Geração da Word Cloud
+- **Bibliotecas Utilizadas:**  
+  Para criar a Word Cloud, utilizei a biblioteca Python `wordcloud`.  
+- **Funções:**  
+  - Leitura do texto (com suporte a caracteres especiais).  
+  - Configuração e personalização da Word Cloud (número máximo de palavras, cores, contornos, fundo).  
+
+#### 2ª Parte: Organização das Imagens
+- O código redimensiona e armazena as 5 imagens escolhidas e organiza-as sequencialmente junto ao título em um arquivo PNG.  
+
+---
+
+### 5. Conclusão
+Neste trabalho, desenvolvi uma Word Cloud temática do Robin Hood utilizando Python para o processamento de texto e geração das imagens.  
+
+Destaques:  
+- Máscara personalizada baseada no personagem Robin Hood.  
+- Visualização artística que combina técnicas de análise textual e programação.  
+
+---
+
+### 6. Bibliografia
+- Material das aulas de Análise, Comunicação e Visualização da Informação.  
+
